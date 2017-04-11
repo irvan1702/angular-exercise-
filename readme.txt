@@ -1,0 +1,1 @@
+i follow tutorial at angular to make this. I already made 4 component, routing, service, css, and html
